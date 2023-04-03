@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kev9180
-- 👀 I’m interested in computer science, space travel/space exploration, automotive detailing and maintenance, woodworking, photography, and hiking.
+- 👀 I’m interested in computer science, space exploration, auto detailing/maintenance, woodworking, photography, hiking, and good beer!
 - 🌱 I’m currently studying Computer Science at Arizona State University.
 - 💞️ I’m looking to collaborate on challenging beginner/intermediate projects that will help me improve my skills. 
 - 📫 How to reach me: send me a message!
